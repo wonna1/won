@@ -1,6 +1,6 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"5.1",
+"Version":"6.1",
 //link for server update
 "Url":"https://github.com/wonna1/won/blob/main/lll.zip?raw=true" ,
 "Changelog":"----------------------------------------------------------------
@@ -25,7 +25,7 @@ AAba
  
  
 // don't mess with the bottom
-"latestVersion": "5.0.0",
+"latestVersion": "6.0.0",
 "latestVersionCode": "1",
 "url": "",
  "releaseNotes": [
